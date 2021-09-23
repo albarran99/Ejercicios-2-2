@@ -1,6 +1,6 @@
-package org.iesfm.readerText.jer2;
+package org.iesfm.readerText.ejr1;
 
-public class Main {
+public class MainEjer1 {
 
     public static void main(String[] args) {
        HolaReader hola = new HolaReader();
